@@ -1,0 +1,19 @@
+.ilv{
+    color: pink;
+    font-size: 40px;
+}
+.body{
+    width: 393px;
+    height: 852px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p{
+    font-size: 18px;
+    color: pink;
+}
+.body2{
+    width: 393px;
+    height: 852px;
+}
