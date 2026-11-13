@@ -17,3 +17,19 @@
     width: 393px;
     height: 852px;
 }
+.proda{
+    font-size: 18px;
+    color: pink;
+}
+.body3{
+    width: 393px;
+    height: 852px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.i{
+    width: 200px;
+    height: 200px;
+    
+}
